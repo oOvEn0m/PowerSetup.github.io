@@ -162,20 +162,14 @@ section,.section-padding {position: relative;padding: 7.5rem 0;overflow: hidden;
 ====================================== */
 
 /*icon bg bover */
-.facebook-bg-hvr:hover{background:#4267B2 !important;color: #fff !important;border: 1px solid #4267B2 !important;}
 .twitter-bg-hvr:hover{background:#1DA1F2 !important;color: #fff !important;border: 1px solid #1DA1F2 !important;}
 .instagram-bg-hvr:hover{background:#C32AA3 !important;color: #fff !important;border: 1px solid #C32AA3 !important;}
 .linkedin-bg-hvr:hover{background:#0077B5 !important;color: #fff !important;border: 1px solid #0077B5 !important;}
-.pinterest-bg-hvr:hover{background:#BD081C !important;color: #fff !important;border: 1px solid #BD081C !important;}
-.google-bg-hvr:hover{background:#DB4437 !important;color: #fff !important;border: 1px solid #DB4437 !important;}
 
 /*icon text bover */
-.facebook-text-hvr:hover{color:#4267B2 !important;}
 .twitter-text-hvr:hover{color:#1DA1F2 !important;}
 .instagram-text-hvr:hover{color:#C32AA3 !important;}
 .linkedin-text-hvr:hover{color:#0077B5 !important;}
-.pinterest-text-hvr:hover{color:#BD081C !important;}
-.google-text-hvr:hover{color:#DB4437 !important;}
 
 .fancy-image{
     background: url("../images/slider-image1.jpg");
@@ -2495,23 +2489,10 @@ ul.packages li i.fa-times{
     background-color: #ffffff;
 }
 
-.half-map{
-    height: 620px;
-    width: 100%;
-    overflow: hidden;
-}
 
-.contact-map{
-    height: 400px;
-    width: 100%;
-    overflow: hidden;
-}
 
-.full-map{
-    height:500px;
-    width: 100%;
-    overflow: hidden;
-}
+
+
 
 .contact-form {
     max-width: 750px;
